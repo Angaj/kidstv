@@ -1,0 +1,1001 @@
+Child_ID,Age,Gender,City_Type,Daily_Screen_Time,Device_Type,Purpose,Parental_Control,Outdoor_Activity,Sleep_Hours,Academic_Performance,Reported_Health_Issues
+1,11,Female,Rural,4.72,TV,Games,No,0.79,9.03,D,No
+2,8,Male,Rural,3.48,Mobile,Entertainment,No,1.55,7.31,B,No
+3,17,Female,Metro,5.14,PC,Social Media,No,1.24,7.27,D,No
+4,15,Male,Metro,7.62,Mobile,Games,Yes,1.75,5.17,D,Yes
+5,12,Male,Rural,1.88,TV,Education,No,1.44,7.45,B,No
+6,17,Male,Metro,5.37,TV,Games,No,1.09,9.31,B,No
+7,9,Female,Urban,4.4,Mobile,Games,Yes,1.12,5.93,D,No
+8,11,Male,Urban,5.18,PC,Education,No,2.47,7.05,C,No
+9,14,Male,Metro,3.85,Mobile,Education,Yes,1.72,8.44,A,No
+10,7,Male,Rural,4.28,TV,Education,Yes,0.65,5.76,D,No
+11,11,Female,Metro,4.69,Mobile,Entertainment,Yes,1.78,7.49,D,No
+12,15,Female,Metro,4.05,TV,Education,No,1.4,9.14,C,No
+13,15,Female,Rural,2.22,Mobile,Entertainment,Yes,1.5,10.0,D,No
+14,12,Female,Rural,4.15,PC,Education,Yes,1.91,8.29,D,No
+15,9,Female,Urban,2.38,PC,Entertainment,Yes,2.09,7.07,A,No
+16,8,Male,Rural,5.48,Mobile,Games,No,1.07,7.04,A,No
+17,12,Female,Urban,1.7,Mobile,Social Media,No,1.49,8.14,A,No
+18,12,Female,Rural,6.04,PC,Games,No,1.23,8.28,B,No
+19,7,Female,Metro,5.14,TV,Games,No,1.8,9.86,B,No
+20,10,Male,Urban,5.15,PC,Education,No,1.38,8.97,A,No
+21,9,Female,Urban,1.25,TV,Entertainment,No,1.51,8.08,A,No
+22,6,Female,Urban,4.01,Mobile,Social Media,No,1.36,7.66,B,No
+23,12,Male,Metro,6.23,Mobile,Education,Yes,1.45,10.0,C,No
+24,16,Female,Metro,3.72,TV,Education,Yes,2.35,8.63,D,No
+25,10,Male,Metro,2.88,Mobile,Education,Yes,2.7,7.33,D,No
+26,6,Male,Metro,3.54,TV,Games,Yes,1.69,7.78,A,No
+27,16,Male,Metro,4.4,Tablet,Entertainment,No,1.45,7.12,C,No
+28,9,Male,Urban,3.22,PC,Entertainment,Yes,0.7,5.6,B,No
+29,5,Male,Metro,6.35,Tablet,Social Media,Yes,1.12,8.31,A,No
+30,16,Female,Urban,4.4,TV,Entertainment,Yes,1.44,9.78,C,No
+31,14,Male,Metro,3.67,PC,Entertainment,Yes,1.14,6.37,C,No
+32,10,Male,Rural,2.55,TV,Education,No,1.2,8.06,C,No
+33,17,Female,Urban,5.23,PC,Education,No,2.29,7.29,B,No
+34,16,Male,Rural,5.19,PC,Games,No,1.51,8.52,B,No
+35,13,Female,Urban,3.31,PC,Education,Yes,1.56,7.83,D,No
+36,5,Female,Rural,1.15,PC,Education,No,1.16,6.64,D,No
+37,15,Female,Metro,5.12,TV,Education,Yes,2.09,7.02,C,No
+38,15,Male,Metro,4.22,PC,Education,No,1.39,7.17,C,No
+39,14,Male,Metro,5.0,PC,Games,No,1.24,9.34,B,No
+40,16,Male,Urban,7.44,Tablet,Education,No,0.71,9.29,D,No
+41,16,Female,Rural,4.46,Mobile,Social Media,No,1.47,7.69,C,No
+42,7,Male,Metro,3.73,Mobile,Social Media,No,1.22,9.23,D,No
+43,16,Male,Rural,2.78,Tablet,Social Media,Yes,2.34,7.83,D,No
+44,11,Male,Rural,4.03,Tablet,Social Media,No,2.42,7.67,C,No
+45,8,Female,Metro,4.74,TV,Education,Yes,0.88,8.06,B,No
+46,13,Female,Metro,4.58,TV,Social Media,Yes,0.94,8.28,C,No
+47,7,Male,Rural,7.09,TV,Education,Yes,1.36,7.44,C,No
+48,9,Male,Metro,5.25,Tablet,Games,Yes,1.09,8.02,D,No
+49,7,Male,Metro,4.3,Tablet,Social Media,Yes,1.61,8.79,C,No
+50,11,Male,Metro,3.44,PC,Entertainment,No,1.34,8.13,B,No
+51,9,Female,Urban,4.9,TV,Social Media,No,1.64,8.04,C,No
+52,13,Female,Rural,3.14,TV,Social Media,No,2.01,8.49,B,No
+53,11,Female,Rural,4.77,TV,Education,No,0.97,8.67,B,No
+54,6,Female,Urban,5.23,Mobile,Social Media,Yes,2.0,7.94,D,No
+55,8,Male,Rural,4.18,PC,Entertainment,No,1.14,7.53,A,No
+56,13,Male,Metro,3.55,TV,Education,No,2.57,8.19,A,No
+57,16,Male,Rural,1.22,TV,Education,Yes,2.31,6.41,D,No
+58,6,Female,Metro,6.22,TV,Games,Yes,1.44,7.79,C,No
+59,14,Male,Urban,5.1,Mobile,Games,No,1.02,5.53,D,No
+60,13,Female,Metro,5.14,Mobile,Social Media,No,0.92,6.32,B,No
+61,14,Female,Rural,2.16,Tablet,Games,Yes,1.94,6.17,A,No
+62,9,Male,Rural,6.57,PC,Games,No,1.48,9.05,D,No
+63,6,Male,Rural,3.8,Tablet,Games,No,1.96,8.01,C,No
+64,8,Male,Urban,4.07,PC,Education,No,2.6,6.74,D,No
+65,16,Female,Urban,2.9,Mobile,Education,No,1.11,8.49,A,No
+66,16,Male,Rural,1.82,TV,Education,Yes,0.88,8.99,D,No
+67,11,Female,Metro,6.24,Tablet,Games,Yes,1.6,8.51,D,No
+68,16,Male,Urban,6.43,TV,Education,Yes,2.07,7.81,A,No
+69,17,Female,Rural,4.25,Tablet,Games,No,1.03,8.23,B,No
+70,12,Female,Rural,3.48,Mobile,Education,No,1.52,8.9,B,No
+71,7,Male,Urban,3.93,Mobile,Education,No,2.19,7.53,A,No
+72,5,Female,Urban,3.98,Mobile,Entertainment,No,0.68,8.03,D,No
+73,8,Female,Urban,2.7,Tablet,Social Media,No,1.62,7.74,A,No
+74,6,Male,Metro,4.06,PC,Games,Yes,1.23,6.39,B,No
+75,12,Female,Metro,4.73,Tablet,Entertainment,No,1.56,8.92,C,No
+76,8,Male,Rural,6.03,PC,Education,No,1.85,10.0,D,No
+77,6,Female,Urban,4.52,Tablet,Games,Yes,1.61,7.13,B,No
+78,10,Male,Metro,2.14,Tablet,Education,No,0.99,8.96,D,No
+79,10,Male,Urban,5.03,Mobile,Social Media,Yes,1.25,7.16,A,No
+80,14,Female,Rural,4.12,TV,Entertainment,Yes,2.21,8.13,C,No
+81,8,Female,Metro,6.56,TV,Social Media,Yes,1.66,9.51,A,No
+82,10,Female,Metro,6.64,PC,Entertainment,Yes,1.92,7.48,C,No
+83,17,Female,Metro,6.7,TV,Education,Yes,1.63,7.99,D,No
+84,6,Female,Rural,3.66,Tablet,Social Media,No,1.9,6.2,D,No
+85,14,Male,Urban,7.48,Tablet,Social Media,Yes,1.3,7.34,A,No
+86,16,Female,Metro,5.03,Mobile,Education,Yes,1.12,6.09,C,No
+87,6,Male,Rural,6.94,Mobile,Social Media,No,1.88,8.43,C,No
+88,14,Male,Urban,3.75,TV,Games,No,2.06,8.83,D,No
+89,8,Female,Rural,4.05,PC,Entertainment,Yes,1.04,7.78,A,No
+90,12,Male,Urban,4.91,TV,Entertainment,No,1.21,8.29,C,No
+91,11,Male,Rural,4.73,TV,Entertainment,No,1.42,7.67,D,No
+92,16,Male,Urban,6.38,TV,Games,Yes,2.31,8.74,B,No
+93,13,Male,Metro,4.15,TV,Entertainment,Yes,1.78,8.13,A,No
+94,12,Female,Urban,6.25,Tablet,Education,No,0.84,6.01,B,Yes
+95,9,Male,Rural,5.6,PC,Social Media,Yes,1.45,8.94,A,No
+96,17,Female,Rural,4.18,Tablet,Games,Yes,1.38,7.61,D,No
+97,6,Female,Urban,5.48,PC,Entertainment,No,0.91,6.73,C,No
+98,9,Male,Metro,3.79,Mobile,Education,Yes,1.45,7.56,C,No
+99,12,Female,Metro,8.03,TV,Social Media,Yes,1.35,6.1,C,Yes
+100,14,Female,Urban,1.0,Tablet,Social Media,Yes,1.32,6.75,A,No
+101,13,Female,Urban,5.51,PC,Games,Yes,1.3,8.14,D,No
+102,16,Male,Rural,1.85,Mobile,Games,Yes,2.24,8.23,B,No
+103,16,Female,Metro,4.16,Mobile,Games,No,1.32,8.31,D,No
+104,16,Female,Urban,4.37,TV,Education,No,1.52,8.0,B,No
+105,17,Female,Metro,6.76,PC,Education,Yes,1.47,7.31,A,No
+106,13,Male,Urban,3.46,Tablet,Games,No,1.25,7.95,A,No
+107,17,Female,Urban,6.46,TV,Entertainment,Yes,1.54,7.56,B,No
+108,17,Male,Metro,2.73,Tablet,Social Media,Yes,1.53,6.37,B,No
+109,5,Male,Urban,6.52,Mobile,Social Media,Yes,1.54,7.23,B,No
+110,13,Male,Urban,3.79,Tablet,Education,Yes,1.07,8.89,D,No
+111,11,Male,Rural,4.61,Tablet,Social Media,Yes,1.4,9.59,B,No
+112,13,Male,Urban,4.0,TV,Entertainment,No,1.88,8.65,A,No
+113,12,Male,Urban,6.42,Tablet,Social Media,No,1.41,9.54,A,No
+114,5,Female,Urban,6.13,TV,Education,Yes,1.58,8.09,C,No
+115,16,Male,Rural,5.17,Mobile,Education,No,1.58,9.74,B,No
+116,12,Female,Metro,2.77,TV,Entertainment,Yes,1.71,10.0,D,No
+117,12,Female,Rural,3.43,TV,Entertainment,No,1.78,6.27,D,No
+118,15,Male,Rural,2.96,PC,Social Media,Yes,1.41,8.22,D,No
+119,7,Female,Metro,1.13,Tablet,Social Media,No,1.04,8.09,C,No
+120,5,Female,Rural,6.39,Mobile,Education,Yes,0.89,7.58,A,No
+121,12,Female,Metro,4.01,TV,Entertainment,Yes,2.01,8.49,D,No
+122,7,Female,Rural,3.99,Mobile,Entertainment,No,1.89,8.04,A,No
+123,7,Male,Metro,6.74,PC,Entertainment,No,1.82,7.26,C,No
+124,5,Female,Urban,3.79,Tablet,Social Media,Yes,1.91,7.97,B,No
+125,15,Male,Rural,3.24,TV,Entertainment,No,1.42,9.2,B,No
+126,9,Female,Rural,4.16,Tablet,Education,Yes,1.19,8.18,B,No
+127,14,Female,Rural,2.8,PC,Education,No,1.01,8.63,D,No
+128,11,Male,Rural,5.02,PC,Social Media,No,0.96,7.72,B,No
+129,14,Female,Urban,3.94,Mobile,Games,Yes,2.11,8.45,D,No
+130,13,Female,Rural,3.74,TV,Social Media,No,1.25,6.79,C,No
+131,16,Female,Urban,3.61,Mobile,Games,No,2.03,7.5,C,No
+132,11,Male,Urban,4.34,PC,Entertainment,Yes,1.41,7.9,D,No
+133,13,Female,Urban,4.63,Tablet,Social Media,No,1.16,6.72,A,No
+134,12,Male,Urban,3.72,Mobile,Education,Yes,0.95,7.17,B,No
+135,16,Female,Metro,3.96,Mobile,Entertainment,Yes,1.21,8.31,B,No
+136,6,Male,Metro,4.38,Tablet,Education,Yes,2.21,8.13,B,No
+137,5,Male,Rural,4.23,Mobile,Entertainment,Yes,0.96,8.81,D,No
+138,11,Female,Metro,4.55,Tablet,Social Media,Yes,2.56,7.4,C,No
+139,11,Female,Metro,3.48,TV,Games,No,1.08,8.06,B,No
+140,12,Male,Rural,6.01,Tablet,Entertainment,Yes,1.87,7.33,C,No
+141,9,Male,Rural,4.65,TV,Games,Yes,1.43,8.71,B,No
+142,7,Female,Rural,3.74,Tablet,Entertainment,No,1.34,9.19,B,No
+143,16,Male,Metro,5.02,PC,Education,No,0.86,8.48,D,No
+144,12,Female,Metro,4.39,PC,Education,No,1.45,9.06,A,No
+145,10,Female,Rural,1.9,TV,Entertainment,Yes,0.92,8.03,D,No
+146,15,Female,Urban,5.01,TV,Games,Yes,0.66,8.81,B,No
+147,7,Female,Rural,2.97,PC,Social Media,Yes,1.56,8.08,B,No
+148,5,Male,Urban,5.9,TV,Social Media,No,1.18,6.98,A,No
+149,7,Female,Urban,4.14,Tablet,Education,Yes,2.34,8.25,C,No
+150,9,Male,Rural,5.67,Tablet,Social Media,No,2.0,7.0,C,No
+151,7,Female,Rural,3.55,PC,Education,Yes,2.35,10.0,B,No
+152,5,Male,Rural,4.6,Mobile,Social Media,No,1.16,7.67,C,No
+153,9,Female,Metro,6.32,Tablet,Entertainment,Yes,1.57,8.65,B,No
+154,14,Male,Urban,4.1,TV,Education,Yes,0.19,7.99,A,No
+155,11,Male,Metro,3.61,Mobile,Education,Yes,1.36,6.77,A,No
+156,11,Female,Metro,5.48,Mobile,Entertainment,No,1.55,6.1,B,No
+157,15,Female,Rural,5.45,Tablet,Education,No,1.58,8.75,A,No
+158,13,Female,Metro,3.68,Tablet,Social Media,Yes,1.48,9.55,D,No
+159,14,Female,Rural,1.52,Mobile,Social Media,Yes,1.53,7.27,D,No
+160,14,Male,Urban,3.58,Mobile,Education,Yes,0.14,6.34,A,No
+161,16,Female,Rural,5.52,PC,Social Media,No,1.63,7.67,B,No
+162,17,Male,Metro,3.34,TV,Games,Yes,1.74,7.06,B,No
+163,7,Male,Metro,4.48,PC,Education,Yes,2.17,7.35,A,No
+164,11,Female,Rural,3.51,Tablet,Entertainment,Yes,1.68,8.61,C,No
+165,5,Male,Rural,1.6,PC,Games,Yes,1.43,7.95,D,No
+166,8,Male,Metro,3.49,PC,Education,No,2.05,7.17,C,No
+167,17,Male,Urban,5.51,PC,Entertainment,No,0.32,8.59,B,No
+168,8,Male,Urban,1.0,PC,Social Media,Yes,1.24,8.67,B,No
+169,9,Female,Rural,4.88,TV,Entertainment,Yes,1.12,7.66,C,No
+170,11,Female,Urban,2.72,TV,Games,No,1.48,8.14,A,No
+171,11,Female,Metro,5.41,Mobile,Social Media,No,0.4,8.52,C,No
+172,17,Female,Rural,5.57,Tablet,Education,Yes,2.16,8.43,C,No
+173,15,Male,Metro,4.24,PC,Social Media,No,1.38,8.04,D,No
+174,17,Male,Metro,4.25,Mobile,Education,No,1.66,9.43,D,No
+175,8,Female,Urban,3.29,Mobile,Education,Yes,1.61,8.58,C,No
+176,17,Female,Rural,2.48,Mobile,Entertainment,No,2.13,7.55,C,No
+177,11,Female,Rural,7.05,TV,Entertainment,No,0.57,7.56,B,No
+178,15,Male,Urban,3.2,PC,Entertainment,Yes,1.56,7.44,D,No
+179,7,Female,Metro,6.85,PC,Games,Yes,2.07,8.63,D,No
+180,10,Female,Metro,3.21,Tablet,Games,No,1.45,7.38,B,No
+181,16,Female,Metro,5.29,PC,Entertainment,Yes,1.02,7.58,A,No
+182,6,Male,Metro,2.79,PC,Games,No,1.2,9.06,D,No
+183,14,Male,Rural,5.29,Mobile,Social Media,Yes,1.3,8.19,D,No
+184,17,Male,Rural,4.01,Tablet,Social Media,No,1.14,9.2,A,No
+185,13,Male,Urban,4.03,PC,Games,Yes,1.42,8.8,D,No
+186,9,Male,Urban,5.42,TV,Games,No,2.25,6.82,D,No
+187,10,Male,Rural,3.8,PC,Social Media,No,1.2,7.9,A,No
+188,16,Male,Rural,2.36,Mobile,Education,No,1.26,8.99,A,No
+189,16,Male,Metro,5.64,TV,Social Media,Yes,1.73,6.78,C,No
+190,16,Female,Metro,2.78,Mobile,Social Media,Yes,1.41,8.42,B,No
+191,16,Female,Urban,5.27,PC,Games,No,0.84,7.96,B,No
+192,8,Male,Rural,5.96,TV,Social Media,No,1.47,6.25,A,No
+193,15,Male,Urban,3.94,Tablet,Games,Yes,1.45,8.12,A,No
+194,14,Female,Rural,6.27,Tablet,Games,Yes,1.99,7.16,D,No
+195,11,Male,Metro,5.22,TV,Entertainment,Yes,1.01,6.83,C,No
+196,16,Male,Urban,3.46,TV,Social Media,Yes,1.99,8.01,C,No
+197,13,Male,Urban,6.6,Mobile,Education,Yes,1.45,6.07,A,Yes
+198,11,Female,Rural,2.79,TV,Entertainment,Yes,0.95,7.33,D,No
+199,5,Female,Metro,3.93,Mobile,Games,No,0.85,10.0,D,No
+200,5,Female,Urban,4.19,PC,Games,Yes,2.47,8.65,B,No
+201,13,Female,Metro,5.41,Mobile,Education,No,1.42,7.12,B,No
+202,15,Female,Urban,6.17,TV,Games,Yes,1.97,9.4,D,No
+203,13,Male,Metro,6.08,TV,Social Media,Yes,0.65,7.01,B,No
+204,8,Female,Rural,4.84,PC,Entertainment,No,2.82,7.45,A,No
+205,17,Male,Urban,4.08,TV,Games,No,1.95,6.85,D,No
+206,13,Male,Urban,1.76,TV,Games,Yes,1.37,8.26,B,No
+207,7,Female,Metro,2.53,Tablet,Education,No,1.35,9.37,C,No
+208,11,Female,Metro,7.15,Tablet,Social Media,No,1.87,7.0,D,No
+209,10,Male,Urban,1.75,PC,Games,No,1.84,5.94,D,No
+210,12,Male,Rural,3.32,Mobile,Education,No,1.59,9.09,C,No
+211,15,Male,Metro,6.22,Tablet,Games,Yes,1.51,9.55,A,No
+212,13,Female,Metro,4.81,Mobile,Education,No,1.78,6.0,C,No
+213,9,Female,Metro,5.89,TV,Education,Yes,0.63,8.46,D,No
+214,5,Female,Urban,5.31,Tablet,Social Media,Yes,1.31,8.23,A,No
+215,7,Female,Urban,6.7,PC,Games,Yes,0.68,7.21,B,No
+216,14,Female,Urban,4.94,PC,Social Media,Yes,1.8,6.61,B,No
+217,16,Male,Urban,5.5,PC,Education,No,1.16,8.99,B,No
+218,12,Female,Rural,3.41,Tablet,Entertainment,No,0.71,8.18,D,No
+219,15,Male,Rural,5.38,Mobile,Games,Yes,1.1,8.25,C,No
+220,10,Male,Urban,3.91,TV,Entertainment,Yes,1.57,7.38,A,No
+221,12,Male,Rural,3.82,Mobile,Games,Yes,1.4,7.2,B,No
+222,13,Female,Metro,5.84,Mobile,Social Media,Yes,0.91,5.55,A,No
+223,8,Female,Metro,5.85,TV,Social Media,No,0.65,7.77,D,No
+224,5,Female,Metro,7.03,TV,Social Media,Yes,1.54,9.44,B,No
+225,5,Male,Urban,6.93,Tablet,Social Media,No,1.21,7.11,D,No
+226,14,Male,Metro,5.88,Tablet,Social Media,Yes,1.37,6.48,C,No
+227,8,Male,Rural,1.92,Tablet,Entertainment,Yes,1.42,8.44,D,No
+228,16,Male,Urban,7.24,Tablet,Social Media,Yes,1.72,8.62,D,No
+229,11,Male,Rural,5.88,Tablet,Education,Yes,1.92,7.41,C,No
+230,6,Male,Metro,3.35,TV,Education,No,1.57,7.65,A,No
+231,7,Female,Metro,5.59,Mobile,Entertainment,No,1.34,8.26,C,No
+232,5,Female,Metro,2.94,Tablet,Games,No,1.51,7.84,C,No
+233,9,Female,Urban,5.43,Tablet,Education,Yes,1.33,9.0,D,No
+234,5,Female,Rural,2.53,Mobile,Games,Yes,0.68,10.0,A,No
+235,12,Male,Urban,3.29,Tablet,Entertainment,No,2.05,6.29,B,No
+236,5,Male,Urban,5.56,Mobile,Games,No,1.95,9.23,C,No
+237,15,Female,Metro,6.11,Mobile,Games,Yes,2.49,8.11,A,No
+238,5,Male,Urban,4.99,TV,Games,Yes,2.64,9.39,C,No
+239,6,Female,Urban,4.07,PC,Games,No,0.91,8.72,C,No
+240,6,Female,Metro,1.33,TV,Entertainment,Yes,1.33,8.06,C,No
+241,16,Female,Urban,4.19,PC,Education,Yes,2.76,8.76,C,No
+242,10,Male,Metro,5.3,PC,Social Media,No,1.48,7.61,D,No
+243,11,Female,Metro,4.02,PC,Games,Yes,1.62,7.23,A,No
+244,9,Female,Metro,4.47,Tablet,Education,No,0.74,8.81,A,No
+245,5,Female,Metro,4.22,TV,Education,Yes,1.58,7.16,A,No
+246,5,Male,Urban,4.02,PC,Entertainment,No,2.47,8.64,C,No
+247,7,Male,Metro,4.61,Mobile,Education,Yes,2.14,8.03,D,No
+248,6,Female,Metro,4.09,Tablet,Entertainment,No,1.2,5.67,C,No
+249,9,Male,Urban,6.66,TV,Games,No,1.3,7.43,C,No
+250,16,Male,Urban,1.19,PC,Games,No,0.93,8.33,A,No
+251,14,Male,Rural,3.68,Mobile,Social Media,No,1.07,7.59,C,No
+252,10,Male,Urban,3.19,TV,Social Media,Yes,0.54,5.45,B,No
+253,11,Male,Urban,4.83,TV,Social Media,Yes,1.46,9.32,C,No
+254,8,Male,Rural,4.62,Tablet,Education,No,2.26,8.17,B,No
+255,11,Male,Urban,6.93,TV,Games,Yes,1.68,8.44,C,No
+256,15,Male,Urban,7.43,Tablet,Entertainment,Yes,2.18,7.53,D,No
+257,12,Male,Urban,3.34,PC,Social Media,Yes,2.04,8.53,D,No
+258,15,Male,Urban,4.5,Tablet,Entertainment,Yes,1.23,9.83,A,No
+259,5,Female,Rural,4.79,Mobile,Entertainment,Yes,1.12,7.26,C,No
+260,10,Female,Urban,3.3,Tablet,Social Media,No,1.14,9.67,B,No
+261,12,Male,Urban,5.44,Mobile,Games,No,0.64,8.4,B,No
+262,9,Female,Rural,4.14,Tablet,Social Media,No,1.52,7.13,C,No
+263,8,Female,Metro,2.9,TV,Entertainment,No,0.05,10.0,B,No
+264,6,Male,Rural,4.08,PC,Social Media,Yes,1.8,8.39,D,No
+265,10,Male,Metro,3.0,Mobile,Entertainment,Yes,1.54,8.68,B,No
+266,10,Male,Rural,6.05,Tablet,Entertainment,No,1.74,7.73,A,No
+267,15,Female,Rural,7.35,Tablet,Social Media,Yes,2.03,7.2,D,No
+268,5,Female,Urban,4.87,Tablet,Education,Yes,1.6,8.17,D,No
+269,13,Male,Metro,4.67,TV,Social Media,No,2.32,9.58,D,No
+270,16,Male,Urban,4.73,TV,Education,Yes,1.81,7.69,C,No
+271,15,Male,Metro,6.27,Mobile,Entertainment,No,1.12,7.97,C,No
+272,10,Female,Rural,6.24,Mobile,Entertainment,No,1.38,9.46,D,No
+273,17,Female,Rural,4.33,TV,Education,Yes,0.37,7.7,C,No
+274,7,Female,Metro,4.88,Mobile,Entertainment,Yes,1.05,8.51,B,No
+275,8,Female,Urban,5.48,PC,Education,No,1.31,8.88,C,No
+276,16,Male,Urban,2.79,PC,Education,No,1.77,7.8,C,No
+277,15,Male,Urban,6.32,TV,Entertainment,Yes,1.12,8.31,D,No
+278,8,Male,Urban,7.1,Mobile,Games,No,0.88,8.66,A,No
+279,7,Male,Rural,6.25,Tablet,Education,No,0.56,7.6,A,No
+280,14,Female,Rural,2.63,PC,Social Media,No,1.2,8.82,A,No
+281,7,Female,Rural,1.54,TV,Social Media,Yes,2.48,7.45,B,No
+282,7,Male,Rural,5.56,Mobile,Entertainment,No,1.64,7.32,C,No
+283,8,Male,Rural,3.36,TV,Games,Yes,1.97,6.47,A,No
+284,11,Female,Urban,4.93,Tablet,Entertainment,No,1.05,7.5,D,No
+285,8,Male,Urban,6.8,PC,Games,Yes,0.71,7.18,A,No
+286,13,Female,Urban,3.51,TV,Education,No,0.89,7.6,A,No
+287,5,Male,Urban,3.93,TV,Education,Yes,1.45,8.61,C,No
+288,12,Male,Rural,4.92,TV,Education,Yes,0.5,6.27,C,No
+289,11,Male,Rural,2.55,Tablet,Education,Yes,1.0,6.03,C,No
+290,6,Male,Rural,3.36,TV,Social Media,No,1.21,7.25,B,No
+291,12,Male,Metro,4.54,Tablet,Social Media,No,0.84,8.46,B,No
+292,5,Male,Urban,4.05,Tablet,Entertainment,No,0.44,8.29,A,No
+293,15,Male,Urban,5.41,Tablet,Games,Yes,1.64,7.23,C,No
+294,16,Female,Rural,8.65,PC,Education,No,1.52,9.17,A,No
+295,13,Female,Urban,4.65,PC,Education,Yes,1.89,7.34,D,No
+296,13,Female,Urban,3.24,TV,Games,No,0.94,8.46,D,No
+297,6,Female,Rural,6.63,TV,Games,Yes,1.88,7.64,C,No
+298,11,Female,Metro,2.12,PC,Entertainment,Yes,2.26,7.13,C,No
+299,14,Male,Metro,2.42,Mobile,Games,Yes,1.63,7.39,D,No
+300,7,Male,Metro,3.61,PC,Education,No,1.2,8.73,C,No
+301,11,Female,Rural,4.08,Tablet,Education,No,1.57,8.36,B,No
+302,16,Male,Urban,3.57,PC,Education,No,1.17,8.97,B,No
+303,14,Female,Rural,4.45,Tablet,Education,Yes,1.09,8.36,C,No
+304,13,Female,Rural,4.91,TV,Education,Yes,1.84,6.39,D,No
+305,8,Male,Urban,6.1,Mobile,Entertainment,No,1.43,10.0,A,No
+306,16,Male,Metro,4.64,TV,Education,No,2.1,8.38,C,No
+307,5,Male,Metro,3.66,Tablet,Entertainment,No,1.28,8.51,C,No
+308,6,Female,Rural,6.02,Tablet,Education,Yes,1.33,7.62,A,No
+309,5,Male,Metro,3.27,Tablet,Social Media,Yes,1.22,9.11,C,No
+310,16,Female,Rural,2.05,Mobile,Social Media,Yes,0.94,6.91,A,No
+311,9,Female,Rural,6.31,PC,Social Media,Yes,1.91,8.61,D,No
+312,9,Female,Urban,6.21,TV,Social Media,Yes,2.59,5.92,B,Yes
+313,15,Male,Urban,3.31,TV,Entertainment,No,1.31,8.68,D,No
+314,11,Male,Urban,3.9,PC,Entertainment,Yes,1.16,6.92,B,No
+315,13,Female,Rural,3.12,TV,Games,Yes,1.13,8.28,A,No
+316,13,Male,Urban,4.99,Mobile,Education,Yes,1.16,9.36,B,No
+317,7,Male,Metro,7.1,TV,Social Media,Yes,2.32,8.82,D,No
+318,7,Male,Metro,5.55,Tablet,Entertainment,Yes,1.14,9.22,B,No
+319,7,Female,Rural,6.05,PC,Education,No,1.21,9.12,A,No
+320,8,Female,Rural,5.73,Mobile,Education,Yes,0.88,7.48,B,No
+321,12,Male,Urban,4.5,PC,Entertainment,Yes,1.65,8.6,C,No
+322,10,Female,Rural,6.13,Mobile,Social Media,Yes,1.47,6.28,D,Yes
+323,12,Male,Rural,5.62,Tablet,Games,No,0.93,7.31,C,No
+324,5,Male,Metro,6.66,PC,Education,No,1.05,9.39,A,No
+325,12,Male,Metro,3.81,TV,Games,No,2.27,7.61,B,No
+326,8,Male,Urban,1.89,Mobile,Social Media,Yes,1.52,6.13,C,No
+327,15,Female,Rural,6.07,PC,Social Media,No,1.55,10.0,C,No
+328,5,Female,Rural,5.02,TV,Games,Yes,1.55,8.56,B,No
+329,12,Female,Metro,4.06,PC,Social Media,Yes,2.2,8.76,B,No
+330,8,Male,Rural,4.14,PC,Education,No,0.98,7.02,D,No
+331,10,Male,Metro,8.33,PC,Games,Yes,1.3,8.28,C,No
+332,12,Male,Urban,3.54,Mobile,Social Media,Yes,1.42,8.26,C,No
+333,8,Female,Metro,3.22,TV,Games,Yes,0.64,7.18,A,No
+334,7,Male,Rural,4.63,Tablet,Education,No,1.04,7.83,D,No
+335,13,Female,Urban,6.27,Mobile,Social Media,Yes,2.02,6.5,A,Yes
+336,7,Female,Metro,7.92,Mobile,Education,Yes,1.88,7.65,C,No
+337,13,Female,Metro,5.49,Mobile,Social Media,No,1.97,8.97,A,No
+338,17,Female,Urban,2.59,Tablet,Entertainment,Yes,1.21,7.25,C,No
+339,6,Female,Urban,7.46,TV,Social Media,Yes,1.27,9.91,C,No
+340,6,Female,Metro,4.47,TV,Games,No,0.61,6.56,A,No
+341,6,Male,Rural,3.24,TV,Social Media,Yes,1.97,7.74,A,No
+342,10,Male,Metro,2.88,PC,Education,Yes,2.05,7.34,B,No
+343,7,Female,Urban,5.75,PC,Education,Yes,2.04,7.82,B,No
+344,17,Female,Metro,4.86,PC,Social Media,Yes,2.3,9.37,B,No
+345,13,Male,Urban,5.02,Tablet,Games,Yes,1.71,7.02,C,No
+346,8,Female,Urban,6.43,PC,Entertainment,No,2.28,7.55,A,No
+347,5,Female,Rural,3.3,Tablet,Games,No,1.4,8.65,D,No
+348,8,Male,Urban,6.55,TV,Entertainment,No,0.62,8.09,C,No
+349,5,Female,Urban,3.72,PC,Education,No,1.93,8.18,D,No
+350,9,Female,Rural,7.75,PC,Games,Yes,0.6,7.03,A,No
+351,8,Female,Urban,5.4,Mobile,Entertainment,Yes,1.59,7.93,C,No
+352,12,Male,Rural,3.12,Tablet,Social Media,Yes,1.98,9.13,D,No
+353,12,Male,Rural,1.46,TV,Education,Yes,1.66,6.39,D,No
+354,11,Male,Urban,5.71,Mobile,Social Media,Yes,2.64,7.3,B,No
+355,7,Female,Urban,3.94,Mobile,Education,No,0.52,6.18,B,No
+356,5,Female,Metro,4.27,TV,Games,No,1.46,8.54,B,No
+357,5,Male,Rural,5.65,Mobile,Games,Yes,1.51,9.23,C,No
+358,16,Female,Metro,6.02,Tablet,Education,Yes,0.83,7.82,A,No
+359,15,Female,Urban,6.34,Tablet,Education,Yes,0.92,6.99,A,Yes
+360,7,Female,Metro,2.74,PC,Education,No,1.08,7.02,B,No
+361,10,Female,Rural,6.64,Mobile,Games,Yes,0.95,7.7,B,No
+362,11,Female,Metro,3.63,PC,Entertainment,Yes,1.45,7.7,B,No
+363,10,Male,Rural,1.12,Mobile,Social Media,Yes,1.2,8.91,D,No
+364,10,Female,Urban,2.73,Tablet,Social Media,No,1.66,7.33,B,No
+365,10,Male,Urban,4.83,Tablet,Games,Yes,1.82,8.44,D,No
+366,17,Female,Rural,3.03,Tablet,Social Media,No,1.79,7.69,A,No
+367,7,Male,Urban,4.37,Mobile,Education,No,1.29,7.26,C,No
+368,10,Female,Urban,5.01,Tablet,Entertainment,No,1.64,7.67,C,No
+369,12,Male,Urban,4.23,Mobile,Social Media,No,2.02,8.34,C,No
+370,15,Female,Urban,3.76,PC,Entertainment,No,1.72,8.91,C,No
+371,15,Male,Rural,2.62,Mobile,Education,No,2.43,7.75,D,No
+372,6,Female,Metro,4.53,PC,Social Media,Yes,1.99,6.8,D,No
+373,9,Male,Metro,1.4,Mobile,Games,Yes,2.36,9.0,B,No
+374,5,Female,Urban,3.47,PC,Entertainment,Yes,0.25,7.1,D,No
+375,16,Male,Metro,3.11,Tablet,Education,No,1.55,8.26,B,No
+376,5,Male,Metro,4.14,PC,Entertainment,Yes,1.34,7.98,B,No
+377,9,Female,Urban,4.18,Tablet,Social Media,No,1.44,7.84,C,No
+378,16,Female,Urban,5.94,Tablet,Social Media,No,1.1,7.51,D,No
+379,17,Male,Metro,6.88,PC,Games,No,1.7,8.62,D,No
+380,7,Female,Rural,2.82,Mobile,Education,Yes,0.6,5.0,B,No
+381,8,Male,Urban,7.49,Mobile,Education,No,1.7,9.14,B,No
+382,7,Male,Rural,3.33,TV,Games,No,1.11,7.09,A,No
+383,5,Male,Metro,4.76,Mobile,Games,Yes,1.25,8.41,A,No
+384,5,Female,Urban,5.27,TV,Education,Yes,1.72,8.36,B,No
+385,16,Male,Rural,8.17,Mobile,Entertainment,No,1.54,9.27,A,No
+386,16,Male,Urban,3.69,Mobile,Entertainment,No,2.03,8.2,A,No
+387,17,Female,Metro,1.8,Tablet,Games,Yes,1.02,7.17,B,No
+388,9,Female,Rural,6.74,TV,Entertainment,Yes,1.46,6.4,B,Yes
+389,10,Female,Metro,3.25,Mobile,Education,Yes,1.94,7.65,D,No
+390,7,Female,Metro,3.96,TV,Social Media,No,1.68,6.04,B,No
+391,16,Male,Urban,2.82,Tablet,Social Media,Yes,1.71,7.37,B,No
+392,13,Male,Rural,3.96,Tablet,Entertainment,Yes,2.05,7.71,C,No
+393,9,Male,Metro,3.24,TV,Games,Yes,1.3,7.31,D,No
+394,12,Male,Metro,5.51,Tablet,Games,No,1.19,8.04,D,No
+395,17,Female,Rural,4.62,PC,Games,Yes,1.79,7.76,D,No
+396,5,Male,Metro,3.48,PC,Games,Yes,1.43,7.67,C,No
+397,9,Male,Metro,5.99,Tablet,Games,Yes,2.06,5.58,B,No
+398,7,Female,Rural,4.88,PC,Entertainment,Yes,1.68,6.71,D,No
+399,16,Male,Rural,1.73,Mobile,Social Media,Yes,1.19,8.64,D,No
+400,5,Male,Rural,5.88,TV,Social Media,No,1.67,8.8,A,No
+401,8,Male,Rural,4.78,Mobile,Entertainment,No,1.05,6.16,D,No
+402,17,Male,Urban,6.59,TV,Games,No,1.97,7.19,B,No
+403,9,Male,Rural,4.69,Tablet,Entertainment,Yes,0.8,9.07,B,No
+404,11,Male,Urban,3.31,Mobile,Social Media,No,2.11,7.28,A,No
+405,5,Female,Urban,4.19,Tablet,Education,No,1.66,7.89,D,No
+406,7,Female,Urban,5.71,Tablet,Entertainment,No,1.42,9.44,D,No
+407,6,Male,Metro,3.34,TV,Games,Yes,1.88,7.64,D,No
+408,13,Male,Urban,3.84,TV,Social Media,Yes,1.76,7.5,C,No
+409,14,Female,Urban,4.17,TV,Social Media,No,2.17,7.84,D,No
+410,10,Male,Metro,2.78,Mobile,Social Media,No,2.16,9.85,B,No
+411,14,Male,Metro,3.37,PC,Social Media,Yes,1.68,8.45,B,No
+412,7,Male,Metro,4.76,TV,Games,Yes,1.06,8.02,C,No
+413,12,Female,Rural,6.3,TV,Education,No,1.23,7.48,C,No
+414,12,Male,Metro,4.98,Mobile,Social Media,Yes,1.46,8.54,D,No
+415,6,Female,Metro,4.43,TV,Entertainment,No,2.04,8.66,A,No
+416,10,Male,Urban,3.25,Mobile,Education,Yes,1.27,6.93,C,No
+417,11,Female,Metro,6.14,Tablet,Social Media,No,1.31,8.69,C,No
+418,6,Female,Rural,5.15,TV,Education,No,2.42,7.85,D,No
+419,15,Male,Metro,3.44,TV,Entertainment,Yes,1.45,8.02,D,No
+420,14,Female,Rural,5.85,Tablet,Social Media,No,1.18,7.12,C,No
+421,6,Male,Metro,5.34,Tablet,Entertainment,No,1.89,7.6,A,No
+422,14,Female,Metro,3.28,Tablet,Games,No,1.47,6.97,C,No
+423,5,Male,Metro,4.35,TV,Social Media,Yes,0.81,6.92,D,No
+424,12,Male,Metro,3.76,PC,Social Media,Yes,2.02,8.38,D,No
+425,5,Female,Rural,8.45,PC,Social Media,Yes,1.13,7.64,C,No
+426,13,Male,Rural,5.3,PC,Social Media,No,1.52,6.7,A,No
+427,15,Male,Urban,4.78,TV,Games,Yes,1.47,10.0,C,No
+428,10,Female,Rural,5.21,Tablet,Social Media,No,1.62,6.88,C,No
+429,11,Male,Metro,6.57,TV,Education,No,0.4,9.09,D,No
+430,17,Male,Urban,4.37,Tablet,Social Media,Yes,1.33,6.52,A,No
+431,14,Female,Urban,3.62,TV,Games,Yes,2.06,8.46,B,No
+432,11,Female,Urban,5.77,TV,Social Media,No,2.13,7.75,A,No
+433,14,Male,Metro,4.24,Tablet,Education,No,1.0,7.37,C,No
+434,7,Male,Rural,2.9,PC,Games,Yes,1.96,8.2,C,No
+435,6,Female,Metro,2.6,Tablet,Games,Yes,1.12,8.06,C,No
+436,13,Female,Urban,6.79,Mobile,Education,Yes,1.31,7.19,A,No
+437,12,Male,Metro,4.7,Mobile,Education,No,1.34,7.14,D,No
+438,17,Female,Metro,3.62,Tablet,Education,No,1.55,6.43,C,No
+439,16,Male,Rural,4.15,TV,Education,No,2.0,8.31,C,No
+440,14,Male,Rural,5.71,Mobile,Education,No,1.63,6.75,A,No
+441,11,Male,Urban,4.06,Mobile,Games,No,1.44,8.0,B,No
+442,13,Male,Metro,2.33,TV,Games,Yes,1.98,8.59,B,No
+443,8,Male,Metro,4.99,TV,Social Media,Yes,1.1,8.21,D,No
+444,17,Female,Rural,6.31,PC,Social Media,No,1.46,7.28,D,No
+445,8,Female,Metro,6.21,TV,Entertainment,No,2.0,8.91,C,No
+446,5,Female,Metro,3.66,Tablet,Social Media,Yes,1.76,7.59,A,No
+447,12,Female,Metro,6.4,Tablet,Social Media,Yes,1.27,6.67,C,Yes
+448,16,Male,Rural,4.82,PC,Education,Yes,0.74,7.72,D,No
+449,7,Male,Urban,6.36,Mobile,Education,Yes,1.66,8.59,A,No
+450,11,Male,Urban,5.36,Mobile,Social Media,No,0.71,7.33,A,No
+451,16,Male,Metro,2.22,TV,Entertainment,Yes,1.39,8.88,D,No
+452,6,Female,Urban,7.12,Tablet,Education,No,2.09,7.23,B,No
+453,6,Male,Rural,4.58,Mobile,Social Media,Yes,1.8,7.37,B,No
+454,11,Male,Rural,5.37,PC,Social Media,Yes,0.49,6.95,A,No
+455,10,Female,Urban,2.48,PC,Games,Yes,1.6,8.68,C,No
+456,7,Female,Urban,5.26,Tablet,Entertainment,No,1.34,7.95,B,No
+457,13,Female,Metro,6.15,PC,Games,No,0.86,7.02,C,No
+458,14,Female,Urban,7.4,PC,Entertainment,Yes,1.67,7.6,B,No
+459,17,Male,Metro,6.6,Tablet,Education,No,1.25,5.0,B,Yes
+460,10,Male,Metro,5.33,TV,Entertainment,No,1.26,8.78,C,No
+461,14,Female,Rural,2.18,TV,Social Media,Yes,1.56,7.83,D,No
+462,14,Male,Rural,4.7,PC,Social Media,Yes,1.19,5.59,B,No
+463,10,Male,Rural,3.61,TV,Entertainment,No,1.55,6.54,B,No
+464,5,Male,Rural,4.85,TV,Entertainment,No,1.2,7.58,C,No
+465,8,Female,Urban,2.68,PC,Entertainment,No,1.23,6.69,D,No
+466,14,Male,Rural,4.18,TV,Games,Yes,2.0,8.79,B,No
+467,10,Female,Urban,3.72,PC,Entertainment,Yes,2.05,8.42,B,No
+468,10,Male,Rural,3.68,Mobile,Education,No,0.65,8.36,D,No
+469,15,Male,Urban,3.69,Tablet,Games,Yes,1.87,5.4,B,No
+470,16,Male,Metro,4.3,Tablet,Games,Yes,2.2,7.47,D,No
+471,9,Female,Urban,4.93,TV,Entertainment,No,2.28,7.3,D,No
+472,5,Male,Urban,1.0,TV,Education,No,1.76,7.05,C,No
+473,12,Female,Rural,1.0,TV,Games,Yes,0.97,7.58,A,No
+474,9,Female,Urban,3.99,Tablet,Social Media,Yes,1.81,6.87,D,No
+475,16,Female,Metro,4.2,Mobile,Games,No,1.07,8.22,C,No
+476,16,Male,Metro,4.78,Mobile,Entertainment,Yes,1.33,8.77,A,No
+477,16,Male,Rural,3.41,Tablet,Education,Yes,1.69,8.68,B,No
+478,9,Male,Metro,4.51,Mobile,Entertainment,No,1.1,7.86,A,No
+479,11,Male,Urban,4.69,Tablet,Social Media,No,0.93,10.0,D,No
+480,8,Female,Metro,3.4,Mobile,Social Media,Yes,1.73,9.14,D,No
+481,10,Female,Rural,6.02,PC,Social Media,Yes,2.43,7.9,D,No
+482,17,Female,Urban,4.77,PC,Entertainment,Yes,2.12,7.52,D,No
+483,8,Male,Rural,5.32,Tablet,Games,No,1.85,9.34,D,No
+484,7,Female,Urban,4.6,Mobile,Entertainment,Yes,1.99,9.01,C,No
+485,11,Male,Metro,7.66,TV,Education,Yes,1.82,6.59,D,Yes
+486,12,Female,Rural,5.39,Mobile,Games,No,1.72,9.09,C,No
+487,8,Male,Rural,3.77,PC,Social Media,No,1.95,7.85,B,No
+488,17,Male,Urban,5.73,PC,Entertainment,Yes,0.82,7.14,D,No
+489,6,Female,Rural,2.04,Mobile,Social Media,No,1.6,6.02,D,No
+490,16,Female,Urban,4.68,Mobile,Social Media,No,1.46,7.73,A,No
+491,14,Female,Urban,4.98,TV,Education,Yes,1.54,7.99,B,No
+492,7,Female,Urban,4.7,TV,Games,No,1.27,9.59,D,No
+493,5,Male,Urban,4.0,Mobile,Education,No,1.76,8.96,D,No
+494,12,Female,Metro,2.98,Mobile,Education,Yes,1.09,7.42,B,No
+495,7,Female,Urban,3.32,Mobile,Education,No,1.23,8.39,C,No
+496,16,Female,Rural,4.65,Mobile,Social Media,Yes,1.17,8.83,D,No
+497,14,Male,Metro,2.83,Tablet,Education,Yes,1.93,8.09,A,No
+498,11,Male,Rural,7.16,Mobile,Education,No,1.49,7.41,D,No
+499,14,Female,Metro,1.0,TV,Games,No,1.27,7.47,A,No
+500,9,Male,Urban,4.01,PC,Games,No,1.31,8.39,A,No
+501,14,Female,Metro,4.67,Tablet,Education,Yes,1.5,8.41,D,No
+502,9,Male,Metro,5.26,Mobile,Games,No,2.31,7.71,D,No
+503,11,Male,Rural,3.13,PC,Games,Yes,0.88,5.38,A,No
+504,13,Male,Rural,6.2,Tablet,Education,No,1.84,6.71,B,Yes
+505,16,Male,Urban,2.41,PC,Social Media,No,1.74,8.62,B,No
+506,9,Female,Metro,3.65,Mobile,Education,No,1.06,5.87,D,No
+507,5,Female,Metro,5.43,Mobile,Games,Yes,2.23,9.18,C,No
+508,14,Female,Metro,6.06,TV,Social Media,No,1.77,9.04,B,No
+509,14,Male,Urban,2.39,Mobile,Entertainment,No,1.25,8.04,D,No
+510,5,Female,Urban,8.47,Mobile,Social Media,Yes,0.57,8.6,B,No
+511,6,Female,Urban,3.15,Tablet,Games,Yes,1.61,8.53,C,No
+512,10,Female,Urban,2.53,TV,Social Media,No,1.48,7.88,D,No
+513,13,Male,Urban,5.25,Tablet,Education,No,0.98,6.63,C,No
+514,12,Male,Rural,3.98,PC,Entertainment,No,0.98,8.97,D,No
+515,17,Male,Metro,3.76,Mobile,Entertainment,Yes,1.93,9.41,C,No
+516,9,Female,Metro,5.39,PC,Entertainment,Yes,0.52,6.79,B,No
+517,5,Female,Metro,2.21,Tablet,Games,Yes,1.66,6.59,B,No
+518,17,Female,Metro,1.95,Mobile,Games,Yes,1.41,7.86,C,No
+519,11,Male,Metro,3.6,Mobile,Entertainment,No,1.75,7.37,C,No
+520,9,Male,Metro,6.12,Tablet,Social Media,Yes,1.35,8.14,C,No
+521,10,Female,Metro,3.67,Tablet,Entertainment,Yes,1.65,9.21,D,No
+522,17,Male,Metro,6.9,Tablet,Social Media,Yes,1.13,5.75,B,Yes
+523,11,Male,Rural,6.3,Tablet,Social Media,No,1.48,9.58,D,No
+524,7,Male,Metro,4.92,Tablet,Games,No,1.74,7.59,B,No
+525,16,Male,Rural,5.01,Mobile,Social Media,Yes,1.58,8.51,A,No
+526,14,Female,Urban,4.92,Tablet,Entertainment,Yes,1.69,8.62,D,No
+527,7,Male,Metro,4.74,Mobile,Games,No,1.04,8.74,B,No
+528,9,Male,Urban,3.95,Mobile,Education,No,1.2,8.06,B,No
+529,10,Male,Urban,4.12,Tablet,Education,No,1.21,8.3,D,No
+530,13,Male,Urban,2.9,Tablet,Games,No,1.36,8.29,D,No
+531,17,Female,Rural,1.18,TV,Entertainment,No,2.18,7.37,B,No
+532,16,Female,Urban,6.16,Mobile,Education,No,1.32,6.24,D,Yes
+533,9,Male,Urban,4.74,Tablet,Education,No,0.93,6.78,C,No
+534,5,Male,Urban,4.51,Tablet,Social Media,No,1.77,7.9,D,No
+535,8,Male,Metro,5.1,Tablet,Social Media,Yes,2.17,7.21,D,No
+536,9,Male,Metro,3.26,TV,Entertainment,Yes,0.87,7.22,D,No
+537,16,Male,Rural,3.0,TV,Games,Yes,2.49,9.8,B,No
+538,14,Male,Rural,4.07,PC,Entertainment,Yes,1.71,8.86,C,No
+539,14,Female,Metro,6.55,Mobile,Games,Yes,2.02,7.75,A,No
+540,9,Male,Rural,2.75,PC,Education,Yes,2.23,8.67,A,No
+541,11,Female,Metro,1.0,Tablet,Social Media,No,1.99,7.58,C,No
+542,8,Female,Urban,3.72,TV,Entertainment,No,1.44,8.11,C,No
+543,5,Male,Urban,6.21,TV,Entertainment,Yes,2.11,8.44,C,No
+544,9,Female,Rural,1.9,PC,Games,Yes,1.63,7.58,B,No
+545,11,Female,Metro,2.73,TV,Games,No,2.05,7.31,A,No
+546,14,Female,Metro,4.9,Tablet,Entertainment,No,2.1,9.22,C,No
+547,14,Female,Rural,8.35,TV,Games,No,0.95,8.61,B,No
+548,10,Female,Metro,2.46,PC,Entertainment,Yes,1.9,5.75,A,No
+549,9,Female,Urban,2.4,Tablet,Entertainment,No,1.41,7.33,D,No
+550,8,Male,Rural,5.01,PC,Entertainment,Yes,1.57,7.22,B,No
+551,6,Female,Rural,6.31,TV,Education,Yes,1.56,7.38,A,No
+552,8,Female,Metro,3.56,PC,Games,No,1.54,8.86,B,No
+553,14,Female,Rural,2.07,PC,Social Media,No,2.26,8.02,A,No
+554,14,Male,Metro,5.15,Mobile,Social Media,Yes,0.82,6.61,A,No
+555,7,Female,Metro,5.42,TV,Games,No,0.64,7.62,D,No
+556,14,Male,Metro,7.17,TV,Entertainment,No,0.53,8.54,B,No
+557,5,Female,Metro,5.49,PC,Social Media,Yes,2.03,7.78,C,No
+558,12,Male,Metro,5.74,Mobile,Social Media,No,1.11,7.36,D,No
+559,9,Male,Rural,4.11,TV,Games,Yes,1.57,8.33,D,No
+560,17,Female,Urban,8.16,Tablet,Social Media,Yes,1.44,9.62,A,No
+561,8,Female,Urban,3.9,PC,Entertainment,No,1.06,8.46,C,No
+562,12,Male,Rural,3.58,TV,Games,Yes,1.93,9.3,B,No
+563,11,Female,Rural,7.21,Tablet,Entertainment,Yes,1.44,7.42,C,No
+564,6,Male,Urban,2.29,TV,Social Media,No,1.38,7.99,C,No
+565,5,Male,Urban,1.73,Tablet,Social Media,No,1.62,7.97,C,No
+566,16,Male,Urban,4.68,PC,Entertainment,No,1.86,8.12,C,No
+567,15,Male,Urban,4.5,TV,Education,Yes,1.02,8.44,C,No
+568,8,Male,Urban,4.16,TV,Social Media,Yes,1.94,7.08,A,No
+569,12,Female,Metro,5.99,Mobile,Education,No,2.22,8.65,A,No
+570,16,Male,Rural,3.14,PC,Social Media,Yes,0.79,6.37,D,No
+571,6,Male,Metro,4.6,Tablet,Education,No,1.64,6.66,A,No
+572,7,Female,Urban,3.96,TV,Education,No,1.35,10.0,D,No
+573,16,Male,Urban,3.16,TV,Education,Yes,1.85,7.49,D,No
+574,5,Female,Urban,4.41,Tablet,Entertainment,No,0.89,8.73,B,No
+575,5,Female,Metro,5.78,PC,Education,Yes,2.31,9.7,C,No
+576,17,Female,Metro,7.68,Mobile,Education,Yes,0.7,5.69,A,Yes
+577,7,Male,Urban,5.37,Mobile,Education,No,1.38,9.13,B,No
+578,15,Male,Metro,1.0,TV,Social Media,Yes,1.72,8.65,A,No
+579,9,Male,Metro,4.44,Tablet,Education,No,1.16,9.64,D,No
+580,16,Female,Urban,4.57,TV,Social Media,Yes,1.08,6.82,A,No
+581,7,Male,Metro,5.9,Tablet,Education,Yes,1.61,9.45,C,No
+582,5,Female,Rural,4.78,Mobile,Education,Yes,1.54,7.26,D,No
+583,5,Male,Rural,6.38,PC,Entertainment,No,1.5,9.05,D,No
+584,12,Female,Rural,5.09,Tablet,Social Media,Yes,1.93,7.96,B,No
+585,14,Male,Rural,6.84,Mobile,Education,No,1.3,8.77,C,No
+586,15,Male,Urban,3.84,TV,Social Media,Yes,1.66,8.05,D,No
+587,16,Male,Urban,4.72,Tablet,Social Media,Yes,1.25,6.16,C,No
+588,17,Female,Urban,5.74,PC,Games,No,1.08,5.0,A,No
+589,17,Female,Rural,3.64,TV,Entertainment,No,1.36,8.21,C,No
+590,16,Male,Rural,3.31,TV,Entertainment,No,1.25,7.74,D,No
+591,6,Male,Metro,3.56,Mobile,Entertainment,No,1.28,8.4,B,No
+592,17,Female,Metro,3.38,Tablet,Games,No,2.08,7.75,D,No
+593,7,Female,Rural,5.28,TV,Games,Yes,1.37,10.0,C,No
+594,6,Female,Rural,1.75,PC,Entertainment,Yes,1.17,8.23,C,No
+595,7,Male,Rural,2.17,Tablet,Games,No,1.51,7.55,D,No
+596,11,Female,Rural,7.29,PC,Games,Yes,1.55,8.34,C,No
+597,5,Male,Metro,3.41,TV,Games,Yes,0.91,7.57,A,No
+598,14,Female,Rural,4.8,PC,Entertainment,Yes,1.35,8.09,D,No
+599,12,Male,Metro,2.27,Mobile,Entertainment,No,1.33,6.78,B,No
+600,17,Female,Rural,4.64,PC,Entertainment,Yes,1.41,7.99,D,No
+601,14,Female,Rural,3.42,Tablet,Games,Yes,1.86,7.52,A,No
+602,14,Female,Rural,2.16,PC,Entertainment,Yes,1.57,6.88,A,No
+603,14,Female,Metro,6.51,PC,Games,No,2.11,9.98,A,No
+604,6,Female,Metro,6.27,Mobile,Education,Yes,1.49,6.92,A,Yes
+605,7,Male,Urban,4.34,PC,Games,Yes,2.39,8.01,A,No
+606,13,Female,Rural,6.0,PC,Social Media,No,1.27,7.2,B,No
+607,11,Female,Urban,7.35,TV,Entertainment,No,1.12,8.3,C,No
+608,8,Female,Urban,5.63,TV,Entertainment,Yes,1.77,6.73,A,No
+609,14,Male,Metro,5.22,Tablet,Social Media,Yes,2.18,8.84,A,No
+610,9,Female,Metro,4.8,TV,Games,No,0.81,10.0,D,No
+611,6,Male,Urban,5.47,TV,Education,No,1.4,7.16,B,No
+612,17,Female,Rural,3.95,TV,Social Media,No,1.19,9.22,B,No
+613,15,Female,Metro,4.09,TV,Social Media,No,1.57,7.62,C,No
+614,17,Male,Rural,5.18,Mobile,Games,No,1.51,9.51,B,No
+615,12,Female,Rural,3.79,TV,Entertainment,No,2.17,10.0,D,No
+616,8,Male,Urban,3.95,Mobile,Games,No,1.45,7.77,D,No
+617,13,Male,Urban,4.5,Mobile,Social Media,Yes,2.19,6.48,C,No
+618,9,Female,Urban,6.23,TV,Social Media,No,1.34,8.95,D,No
+619,17,Male,Urban,2.8,PC,Entertainment,No,1.96,8.22,A,No
+620,13,Female,Metro,5.64,Mobile,Entertainment,Yes,1.61,8.5,A,No
+621,8,Female,Metro,5.69,PC,Entertainment,No,2.36,7.66,D,No
+622,14,Male,Urban,5.68,PC,Games,No,0.76,7.12,C,No
+623,9,Male,Metro,3.29,TV,Entertainment,Yes,0.92,9.16,B,No
+624,13,Male,Urban,1.96,Tablet,Social Media,No,2.42,8.32,C,No
+625,12,Male,Rural,5.34,TV,Social Media,Yes,1.13,6.56,B,No
+626,7,Female,Rural,4.78,Tablet,Education,Yes,1.17,8.69,D,No
+627,5,Female,Rural,6.01,Tablet,Games,Yes,1.06,8.49,D,No
+628,7,Male,Urban,3.45,TV,Education,Yes,2.07,7.67,A,No
+629,8,Female,Rural,5.64,TV,Social Media,No,0.87,9.62,B,No
+630,6,Female,Metro,6.08,Tablet,Education,Yes,1.51,7.38,C,No
+631,5,Female,Rural,4.36,TV,Social Media,Yes,1.37,7.83,D,No
+632,11,Female,Rural,5.13,Tablet,Education,No,2.02,8.77,C,No
+633,12,Male,Rural,5.07,PC,Entertainment,Yes,1.22,8.08,A,No
+634,11,Male,Metro,3.27,TV,Education,Yes,1.71,6.62,B,No
+635,9,Female,Urban,5.3,PC,Entertainment,Yes,0.91,8.18,B,No
+636,16,Male,Metro,6.93,Mobile,Entertainment,Yes,2.64,7.59,D,No
+637,5,Male,Urban,4.53,PC,Games,No,1.38,8.86,B,No
+638,11,Male,Urban,2.31,PC,Entertainment,Yes,1.5,8.15,D,No
+639,17,Female,Rural,3.47,Tablet,Entertainment,No,2.33,8.09,A,No
+640,11,Female,Urban,1.83,PC,Education,No,1.21,6.95,B,No
+641,13,Female,Metro,6.44,TV,Social Media,Yes,2.33,7.77,D,No
+642,7,Male,Metro,5.65,Tablet,Games,Yes,1.29,8.97,C,No
+643,13,Female,Urban,3.75,Mobile,Entertainment,Yes,1.84,7.22,D,No
+644,5,Female,Rural,2.37,TV,Games,Yes,1.21,7.97,B,No
+645,5,Male,Rural,3.25,Mobile,Education,No,0.82,7.06,A,No
+646,8,Female,Metro,3.54,PC,Entertainment,No,1.71,6.82,B,No
+647,13,Female,Rural,4.66,TV,Education,No,1.82,7.92,B,No
+648,10,Male,Urban,4.61,TV,Games,Yes,0.84,8.17,D,No
+649,17,Male,Urban,6.51,Mobile,Education,No,1.35,9.99,C,No
+650,15,Male,Metro,3.46,TV,Games,Yes,2.1,7.54,B,No
+651,7,Female,Urban,2.24,TV,Education,Yes,1.8,7.95,C,No
+652,5,Female,Metro,2.76,TV,Games,Yes,1.3,6.75,D,No
+653,8,Female,Urban,4.47,PC,Social Media,Yes,1.2,8.61,C,No
+654,16,Male,Metro,3.41,Mobile,Education,Yes,2.47,8.4,D,No
+655,17,Male,Rural,4.06,TV,Education,No,0.78,9.49,A,No
+656,13,Female,Urban,3.82,Tablet,Social Media,No,1.47,9.11,C,No
+657,7,Female,Urban,5.99,Tablet,Social Media,Yes,0.77,8.35,C,No
+658,16,Male,Metro,3.62,Tablet,Education,No,2.16,7.53,A,No
+659,13,Male,Metro,3.93,Tablet,Social Media,Yes,1.5,8.2,C,No
+660,11,Male,Urban,5.58,PC,Entertainment,Yes,1.59,7.89,A,No
+661,16,Male,Metro,3.65,TV,Games,Yes,2.88,8.95,B,No
+662,8,Female,Urban,5.13,Mobile,Games,No,1.2,8.83,D,No
+663,7,Male,Rural,5.0,TV,Games,Yes,2.37,7.7,A,No
+664,14,Female,Metro,4.71,PC,Entertainment,Yes,1.3,6.54,C,No
+665,9,Female,Urban,2.8,Tablet,Social Media,No,1.38,9.33,A,No
+666,9,Female,Rural,6.34,PC,Social Media,No,2.82,8.58,C,No
+667,7,Male,Rural,7.83,TV,Education,No,1.42,7.68,B,No
+668,16,Male,Urban,4.51,Mobile,Social Media,Yes,0.81,8.54,A,No
+669,13,Male,Metro,2.93,PC,Education,Yes,1.64,8.07,B,No
+670,8,Male,Urban,4.54,Mobile,Entertainment,No,1.41,9.32,D,No
+671,15,Female,Rural,5.98,PC,Games,Yes,1.68,6.07,C,No
+672,9,Male,Urban,3.58,Mobile,Games,No,1.43,7.6,C,No
+673,8,Male,Metro,4.31,Mobile,Games,No,2.61,9.6,B,No
+674,9,Female,Rural,5.01,Tablet,Social Media,Yes,1.78,8.56,D,No
+675,11,Male,Urban,6.3,Mobile,Education,Yes,0.96,9.77,A,No
+676,13,Female,Metro,5.66,Tablet,Education,No,1.56,6.78,A,No
+677,11,Female,Rural,5.73,TV,Entertainment,No,1.1,9.07,C,No
+678,17,Female,Metro,3.86,TV,Social Media,No,1.38,9.01,B,No
+679,9,Female,Rural,5.1,Tablet,Entertainment,No,1.04,6.32,B,No
+680,14,Female,Urban,3.42,Tablet,Education,Yes,2.55,7.7,A,No
+681,14,Female,Metro,5.77,PC,Education,No,1.15,7.89,D,No
+682,11,Female,Rural,6.23,PC,Games,No,1.84,6.38,D,Yes
+683,14,Female,Metro,5.33,PC,Social Media,No,1.34,7.73,A,No
+684,9,Male,Metro,3.95,TV,Education,Yes,0.92,8.87,A,No
+685,7,Male,Urban,4.19,PC,Games,Yes,1.6,7.61,B,No
+686,11,Male,Metro,7.21,Mobile,Social Media,No,1.7,8.24,D,No
+687,17,Male,Rural,3.97,Mobile,Entertainment,Yes,1.78,8.25,A,No
+688,15,Female,Rural,6.07,PC,Social Media,Yes,0.19,7.99,A,No
+689,15,Male,Rural,5.01,Mobile,Social Media,Yes,0.88,7.29,C,No
+690,6,Female,Rural,4.0,TV,Education,No,1.98,8.66,A,No
+691,16,Male,Urban,2.48,Mobile,Education,No,1.04,6.41,A,No
+692,13,Male,Metro,4.82,TV,Social Media,Yes,1.6,8.01,D,No
+693,14,Male,Urban,4.64,Tablet,Education,No,0.87,9.39,B,No
+694,14,Female,Metro,7.21,Tablet,Education,No,1.87,7.55,D,No
+695,16,Male,Metro,3.21,Tablet,Education,Yes,1.97,7.27,B,No
+696,5,Female,Metro,7.94,Tablet,Games,Yes,1.87,8.73,C,No
+697,17,Female,Urban,5.07,Mobile,Games,No,2.02,8.16,A,No
+698,10,Male,Metro,5.07,PC,Social Media,Yes,2.28,8.75,C,No
+699,11,Male,Urban,3.61,Mobile,Education,No,0.91,8.04,B,No
+700,17,Male,Rural,4.97,TV,Games,No,1.11,5.61,D,No
+701,12,Female,Rural,5.21,Mobile,Social Media,Yes,1.95,9.18,D,No
+702,14,Male,Metro,5.91,Mobile,Education,No,2.07,10.0,C,No
+703,13,Female,Urban,3.03,TV,Entertainment,No,1.16,9.28,B,No
+704,6,Female,Rural,6.61,Tablet,Education,Yes,1.13,5.0,C,Yes
+705,15,Male,Urban,5.04,Tablet,Education,Yes,1.17,8.45,C,No
+706,14,Male,Urban,5.41,Tablet,Games,Yes,0.7,7.53,A,No
+707,6,Female,Metro,4.17,PC,Social Media,No,0.86,6.92,C,No
+708,9,Female,Rural,3.11,TV,Social Media,Yes,0.88,8.12,A,No
+709,17,Female,Metro,4.61,TV,Games,Yes,1.35,7.85,A,No
+710,9,Male,Metro,4.78,Mobile,Education,Yes,1.64,8.51,D,No
+711,10,Female,Rural,2.42,PC,Entertainment,Yes,1.72,8.06,A,No
+712,7,Male,Rural,5.69,Tablet,Education,No,1.25,6.88,A,No
+713,12,Female,Urban,5.99,PC,Education,No,1.26,7.42,D,No
+714,17,Female,Rural,3.41,TV,Entertainment,Yes,1.56,7.26,C,No
+715,5,Male,Urban,2.97,TV,Games,No,0.75,6.28,B,No
+716,10,Female,Urban,4.05,Mobile,Social Media,Yes,1.98,6.63,B,No
+717,8,Male,Urban,4.54,Mobile,Games,Yes,2.14,7.79,B,No
+718,5,Male,Rural,4.1,TV,Games,No,1.19,9.42,C,No
+719,11,Female,Metro,4.41,Tablet,Education,No,1.3,7.46,A,No
+720,13,Male,Urban,4.83,Tablet,Social Media,Yes,2.12,7.24,B,No
+721,17,Male,Metro,2.45,PC,Social Media,Yes,1.44,6.82,C,No
+722,8,Female,Metro,2.62,TV,Games,No,1.79,8.03,A,No
+723,8,Male,Rural,1.0,TV,Entertainment,Yes,1.45,9.18,D,No
+724,10,Male,Metro,5.91,Tablet,Games,No,2.28,10.0,B,No
+725,16,Male,Metro,4.52,Tablet,Entertainment,Yes,1.75,8.29,A,No
+726,7,Female,Rural,6.07,TV,Social Media,Yes,1.77,8.14,B,No
+727,17,Male,Urban,2.79,Mobile,Games,No,1.78,7.46,B,No
+728,16,Female,Metro,4.54,TV,Education,No,1.22,7.62,B,No
+729,10,Female,Rural,4.82,TV,Games,No,1.27,8.63,A,No
+730,11,Male,Metro,3.66,Tablet,Social Media,No,1.88,7.69,C,No
+731,15,Male,Metro,2.17,Tablet,Education,No,1.56,7.84,A,No
+732,14,Male,Urban,7.12,Mobile,Education,No,0.91,7.97,B,No
+733,14,Female,Metro,6.6,Mobile,Entertainment,No,2.44,7.41,A,No
+734,7,Male,Rural,3.93,PC,Education,Yes,1.99,7.93,D,No
+735,11,Male,Metro,5.27,TV,Education,Yes,1.52,5.98,C,No
+736,7,Male,Urban,3.77,Tablet,Games,Yes,1.36,8.55,A,No
+737,17,Male,Urban,3.01,Mobile,Social Media,No,1.6,10.0,D,No
+738,17,Male,Rural,7.24,PC,Entertainment,No,1.76,7.45,C,No
+739,6,Female,Urban,2.02,PC,Games,No,0.48,8.37,D,No
+740,16,Female,Metro,4.07,Tablet,Education,Yes,2.56,8.85,C,No
+741,14,Male,Urban,4.63,Tablet,Education,No,1.11,9.28,A,No
+742,8,Male,Rural,6.98,PC,Entertainment,No,1.5,7.74,D,No
+743,16,Male,Urban,5.84,Mobile,Social Media,Yes,1.52,6.2,B,No
+744,12,Male,Urban,1.99,PC,Entertainment,No,2.5,8.27,D,No
+745,17,Female,Urban,4.5,TV,Games,Yes,1.46,8.13,C,No
+746,13,Male,Rural,4.53,TV,Entertainment,Yes,2.29,7.65,A,No
+747,11,Female,Urban,4.16,Tablet,Education,No,1.7,7.87,C,No
+748,5,Female,Urban,5.43,Mobile,Games,No,1.02,8.14,D,No
+749,7,Male,Metro,2.39,Mobile,Education,No,1.57,8.36,D,No
+750,17,Female,Rural,3.89,TV,Social Media,Yes,1.44,8.32,B,No
+751,16,Female,Urban,5.22,PC,Education,Yes,0.96,7.78,A,No
+752,13,Female,Rural,5.52,Tablet,Education,Yes,1.68,8.38,A,No
+753,16,Female,Urban,4.72,PC,Entertainment,No,1.51,7.71,D,No
+754,5,Male,Urban,4.07,PC,Education,No,1.78,8.64,A,No
+755,13,Male,Urban,4.32,PC,Games,No,1.6,7.37,B,No
+756,12,Female,Metro,5.61,Mobile,Games,No,1.17,8.07,C,No
+757,5,Male,Metro,4.55,TV,Social Media,Yes,1.88,6.38,A,No
+758,10,Male,Metro,2.94,Mobile,Games,Yes,1.19,7.63,D,No
+759,9,Male,Rural,2.65,TV,Entertainment,Yes,0.0,8.57,C,No
+760,10,Male,Rural,2.27,Tablet,Social Media,Yes,1.56,6.97,C,No
+761,14,Male,Metro,6.68,Tablet,Games,No,1.22,7.68,B,No
+762,16,Female,Rural,5.71,PC,Entertainment,No,1.69,5.59,D,No
+763,17,Male,Urban,4.34,TV,Games,No,2.5,6.63,A,No
+764,17,Male,Urban,3.82,TV,Games,Yes,2.51,6.89,D,No
+765,17,Male,Urban,3.64,TV,Education,Yes,1.42,8.1,C,No
+766,9,Male,Metro,6.14,PC,Games,No,1.09,8.33,D,No
+767,10,Female,Rural,7.36,PC,Games,No,1.79,7.94,A,No
+768,9,Female,Metro,3.59,Tablet,Entertainment,Yes,1.31,7.62,A,No
+769,15,Female,Rural,6.21,Mobile,Entertainment,No,1.7,7.62,B,No
+770,16,Female,Urban,4.54,TV,Education,Yes,1.17,8.72,A,No
+771,9,Male,Metro,4.18,TV,Games,Yes,1.63,8.21,A,No
+772,8,Female,Rural,6.76,Mobile,Education,Yes,1.09,7.67,D,No
+773,7,Male,Rural,4.48,TV,Games,No,2.09,9.29,D,No
+774,7,Male,Urban,4.94,PC,Social Media,No,1.21,9.95,C,No
+775,8,Male,Metro,4.87,PC,Social Media,Yes,1.83,6.75,B,No
+776,13,Male,Metro,2.06,TV,Education,No,0.87,8.52,D,No
+777,6,Male,Metro,4.93,PC,Education,Yes,1.89,10.0,A,No
+778,13,Female,Urban,3.66,PC,Education,Yes,1.02,8.28,C,No
+779,5,Female,Metro,2.37,TV,Entertainment,Yes,1.63,8.12,D,No
+780,5,Female,Urban,3.72,Tablet,Entertainment,Yes,2.01,7.94,B,No
+781,9,Female,Urban,3.71,Mobile,Entertainment,No,1.4,8.49,B,No
+782,10,Male,Urban,6.04,PC,Education,Yes,0.99,8.75,C,No
+783,10,Female,Rural,2.9,Tablet,Games,Yes,1.75,6.76,C,No
+784,7,Male,Metro,3.32,PC,Social Media,No,1.08,7.97,C,No
+785,11,Female,Metro,4.85,PC,Education,Yes,1.3,5.73,C,No
+786,13,Male,Urban,2.51,Mobile,Entertainment,Yes,1.63,7.79,C,No
+787,15,Male,Urban,3.51,PC,Entertainment,No,2.18,7.1,A,No
+788,16,Female,Metro,2.0,Mobile,Education,No,1.51,8.34,A,No
+789,14,Male,Urban,5.88,Mobile,Education,No,1.51,6.34,D,No
+790,12,Male,Metro,4.05,Mobile,Entertainment,Yes,1.87,7.49,B,No
+791,10,Female,Rural,4.48,Tablet,Games,No,1.53,8.97,A,No
+792,16,Male,Urban,5.87,TV,Entertainment,No,1.82,7.32,A,No
+793,12,Female,Metro,3.42,Tablet,Entertainment,Yes,2.04,6.1,A,No
+794,16,Female,Urban,4.03,TV,Education,Yes,1.34,8.26,D,No
+795,9,Female,Metro,2.92,TV,Games,Yes,0.0,7.41,C,No
+796,12,Male,Metro,2.91,Mobile,Entertainment,Yes,1.09,7.81,D,No
+797,14,Male,Urban,3.12,PC,Entertainment,Yes,2.1,7.27,B,No
+798,16,Male,Rural,3.76,Mobile,Social Media,No,1.48,9.97,B,No
+799,8,Female,Metro,3.92,PC,Education,No,1.33,6.44,B,No
+800,14,Male,Metro,4.93,TV,Social Media,No,2.08,10.0,B,No
+801,12,Female,Metro,3.16,Mobile,Social Media,Yes,1.45,7.61,A,No
+802,14,Female,Rural,4.98,PC,Entertainment,Yes,0.45,8.18,A,No
+803,16,Male,Rural,5.23,Tablet,Education,Yes,0.75,7.43,D,No
+804,6,Female,Urban,3.8,PC,Games,No,1.71,7.38,C,No
+805,16,Male,Rural,3.29,Mobile,Entertainment,No,1.47,7.22,B,No
+806,16,Male,Urban,4.63,Tablet,Games,Yes,2.23,8.6,D,No
+807,9,Male,Urban,4.2,PC,Games,No,1.13,6.59,A,No
+808,13,Male,Rural,4.83,PC,Education,Yes,1.35,8.36,A,No
+809,8,Male,Urban,6.85,PC,Social Media,No,1.06,5.82,C,Yes
+810,15,Female,Rural,4.6,PC,Education,No,1.24,8.27,C,No
+811,10,Female,Urban,3.54,PC,Games,No,0.55,8.85,C,No
+812,5,Female,Rural,3.16,Tablet,Entertainment,Yes,1.31,6.73,D,No
+813,13,Male,Rural,3.22,TV,Games,No,1.47,8.68,A,No
+814,5,Male,Urban,2.31,Tablet,Entertainment,No,1.43,8.05,A,No
+815,9,Male,Metro,5.9,Tablet,Entertainment,Yes,2.57,9.6,C,No
+816,8,Female,Urban,1.15,Tablet,Education,No,2.42,7.14,B,No
+817,17,Male,Rural,5.23,TV,Games,Yes,1.12,10.0,C,No
+818,16,Female,Metro,3.2,Mobile,Social Media,Yes,0.48,5.61,D,No
+819,17,Female,Urban,3.73,TV,Games,Yes,1.45,7.67,C,No
+820,17,Male,Urban,3.15,Tablet,Games,Yes,1.69,6.3,C,No
+821,7,Male,Urban,6.67,PC,Social Media,Yes,1.07,9.85,D,No
+822,17,Female,Metro,4.52,PC,Education,No,1.09,7.74,C,No
+823,10,Male,Rural,5.69,Tablet,Games,Yes,2.29,7.83,A,No
+824,6,Female,Urban,6.45,PC,Games,Yes,1.37,8.44,B,No
+825,7,Male,Urban,4.75,Tablet,Entertainment,Yes,1.83,8.0,C,No
+826,9,Male,Urban,2.71,PC,Games,Yes,1.03,7.41,D,No
+827,13,Female,Urban,4.17,TV,Social Media,No,1.47,6.74,B,No
+828,6,Male,Urban,3.39,Mobile,Entertainment,Yes,1.33,8.17,D,No
+829,14,Female,Rural,3.74,Mobile,Education,No,1.16,8.38,B,No
+830,12,Male,Rural,4.36,TV,Entertainment,Yes,2.08,8.7,B,No
+831,6,Female,Urban,4.3,TV,Social Media,No,0.81,9.91,C,No
+832,15,Female,Metro,5.12,Tablet,Social Media,Yes,1.65,5.83,A,No
+833,17,Male,Rural,5.34,Tablet,Entertainment,Yes,1.32,7.93,C,No
+834,9,Female,Metro,4.3,Tablet,Education,No,1.71,9.19,D,No
+835,11,Male,Rural,5.11,PC,Entertainment,Yes,1.33,7.88,D,No
+836,12,Male,Urban,3.68,Tablet,Education,No,1.93,5.66,B,No
+837,5,Male,Rural,6.47,TV,Entertainment,Yes,1.03,6.71,B,Yes
+838,10,Female,Urban,3.65,Mobile,Social Media,No,2.08,8.33,A,No
+839,5,Female,Rural,6.3,PC,Games,Yes,1.49,8.29,C,No
+840,6,Male,Urban,2.29,Tablet,Games,Yes,0.84,8.67,D,No
+841,5,Male,Urban,3.93,PC,Education,No,1.84,7.22,B,No
+842,15,Female,Urban,4.0,PC,Education,Yes,1.4,8.26,A,No
+843,9,Male,Urban,4.92,Tablet,Education,Yes,0.65,7.05,D,No
+844,14,Male,Metro,5.79,PC,Social Media,Yes,1.67,8.26,B,No
+845,13,Female,Urban,2.63,Mobile,Entertainment,Yes,2.0,8.05,D,No
+846,10,Male,Metro,2.84,TV,Social Media,Yes,2.14,7.18,A,No
+847,15,Female,Metro,2.4,TV,Games,Yes,1.31,9.56,A,No
+848,15,Male,Urban,6.48,Mobile,Education,No,1.57,6.29,D,Yes
+849,5,Female,Metro,4.95,PC,Entertainment,No,1.53,7.86,C,No
+850,17,Male,Rural,2.87,Tablet,Games,No,2.24,7.16,D,No
+851,5,Male,Urban,3.84,PC,Games,Yes,1.09,9.83,B,No
+852,6,Female,Metro,6.27,Mobile,Games,No,1.27,8.6,C,No
+853,13,Male,Urban,4.08,PC,Social Media,Yes,1.08,7.35,B,No
+854,7,Female,Urban,3.99,TV,Education,Yes,0.78,7.72,D,No
+855,5,Male,Urban,3.33,PC,Games,Yes,1.62,9.86,C,No
+856,9,Female,Metro,2.96,Mobile,Education,Yes,2.3,7.05,B,No
+857,11,Female,Rural,6.27,TV,Social Media,No,1.4,6.24,D,Yes
+858,10,Female,Rural,7.01,PC,Games,Yes,1.06,8.29,D,No
+859,16,Female,Metro,3.02,PC,Social Media,No,1.59,8.31,C,No
+860,5,Male,Urban,6.61,TV,Social Media,Yes,1.79,8.67,D,No
+861,9,Male,Metro,3.77,Tablet,Education,No,1.42,8.67,A,No
+862,9,Female,Metro,5.3,TV,Games,No,2.2,9.77,B,No
+863,10,Female,Metro,6.62,Tablet,Social Media,No,1.09,6.28,B,Yes
+864,7,Female,Urban,4.28,Mobile,Games,No,1.36,6.8,D,No
+865,9,Male,Metro,4.01,Mobile,Education,No,1.65,8.66,D,No
+866,11,Male,Urban,5.7,TV,Social Media,No,1.7,6.89,A,No
+867,9,Male,Metro,2.84,TV,Education,Yes,1.52,6.54,C,No
+868,9,Male,Rural,6.22,Mobile,Games,No,0.86,9.87,D,No
+869,9,Female,Metro,4.71,Tablet,Games,Yes,2.67,6.38,D,No
+870,14,Female,Metro,3.63,Mobile,Education,No,1.38,7.65,D,No
+871,14,Female,Rural,3.59,TV,Entertainment,Yes,1.56,7.94,D,No
+872,7,Male,Urban,2.42,Mobile,Social Media,No,1.81,9.31,B,No
+873,5,Male,Urban,3.7,TV,Games,No,1.18,6.13,D,No
+874,9,Male,Metro,4.1,TV,Games,Yes,1.53,8.42,B,No
+875,13,Female,Rural,2.91,Mobile,Social Media,No,1.16,7.11,D,No
+876,5,Female,Urban,4.43,Tablet,Education,No,1.71,8.63,C,No
+877,7,Male,Metro,5.21,PC,Education,No,1.36,7.09,A,No
+878,17,Female,Rural,4.18,Mobile,Education,Yes,1.63,9.57,C,No
+879,17,Male,Urban,5.49,PC,Entertainment,No,0.98,7.1,D,No
+880,8,Male,Urban,3.29,Mobile,Entertainment,Yes,1.09,5.54,D,No
+881,5,Female,Rural,6.01,PC,Games,No,0.82,7.21,D,No
+882,5,Male,Rural,4.68,Tablet,Education,No,1.14,7.74,C,No
+883,12,Female,Rural,6.82,Tablet,Social Media,Yes,0.21,9.08,D,No
+884,6,Male,Rural,8.12,Mobile,Games,No,1.35,6.74,C,Yes
+885,16,Female,Metro,3.79,TV,Social Media,No,1.23,6.76,B,No
+886,12,Female,Rural,3.86,PC,Games,Yes,1.58,8.96,A,No
+887,11,Female,Urban,4.13,TV,Entertainment,No,1.52,6.62,A,No
+888,14,Male,Urban,5.39,TV,Games,Yes,2.13,7.82,C,No
+889,14,Male,Metro,6.49,TV,Entertainment,Yes,2.8,7.84,B,No
+890,6,Female,Urban,3.52,Tablet,Games,Yes,2.07,8.22,C,No
+891,10,Female,Urban,5.07,Mobile,Education,No,1.27,7.25,B,No
+892,10,Male,Rural,4.3,Mobile,Social Media,Yes,1.25,7.07,D,No
+893,7,Male,Urban,5.43,Tablet,Education,Yes,1.93,8.33,B,No
+894,15,Male,Metro,6.76,Tablet,Games,No,0.66,7.1,B,No
+895,6,Female,Rural,4.14,Mobile,Games,Yes,1.34,6.64,B,No
+896,16,Male,Rural,2.0,TV,Games,No,1.38,9.23,A,No
+897,5,Male,Metro,5.62,PC,Entertainment,No,1.79,8.49,B,No
+898,10,Female,Rural,3.25,PC,Social Media,No,1.81,9.77,D,No
+899,16,Male,Rural,4.29,PC,Social Media,No,1.13,8.78,D,No
+900,9,Male,Metro,5.68,TV,Games,Yes,1.29,6.73,D,No
+901,15,Male,Rural,4.95,Mobile,Games,Yes,1.72,8.1,B,No
+902,13,Female,Metro,4.35,Tablet,Entertainment,Yes,1.1,6.98,C,No
+903,5,Female,Metro,3.64,Mobile,Education,Yes,2.1,6.35,C,No
+904,11,Female,Urban,1.0,TV,Education,Yes,1.8,7.55,D,No
+905,9,Female,Urban,5.55,Tablet,Social Media,No,1.59,8.98,A,No
+906,9,Female,Rural,4.12,TV,Entertainment,Yes,1.7,8.27,C,No
+907,6,Female,Rural,6.77,PC,Games,Yes,1.27,6.61,B,Yes
+908,15,Female,Metro,5.1,PC,Social Media,Yes,1.19,7.52,C,No
+909,7,Male,Rural,3.69,TV,Entertainment,No,1.29,7.86,D,No
+910,11,Male,Metro,6.1,Tablet,Education,No,1.75,6.31,A,Yes
+911,10,Female,Metro,6.23,Tablet,Entertainment,Yes,1.6,8.71,C,No
+912,16,Male,Rural,4.17,Mobile,Education,No,1.29,7.77,C,No
+913,6,Male,Metro,6.29,PC,Entertainment,Yes,1.87,6.61,D,Yes
+914,10,Female,Urban,3.67,Mobile,Social Media,Yes,1.41,6.55,A,No
+915,6,Male,Rural,4.74,Mobile,Education,No,1.15,9.1,A,No
+916,6,Male,Urban,5.36,TV,Social Media,No,1.63,7.62,D,No
+917,6,Male,Rural,5.68,TV,Social Media,Yes,0.99,9.19,B,No
+918,15,Male,Metro,5.43,Mobile,Education,Yes,0.66,9.57,C,No
+919,7,Male,Rural,4.0,PC,Education,No,1.5,9.02,B,No
+920,6,Female,Urban,6.14,TV,Games,Yes,1.17,7.47,C,No
+921,8,Female,Metro,4.31,Mobile,Games,No,1.37,5.5,C,No
+922,13,Female,Rural,3.65,Mobile,Games,Yes,1.02,8.31,B,No
+923,10,Male,Rural,3.67,Mobile,Social Media,No,2.1,10.0,D,No
+924,5,Female,Rural,7.41,Mobile,Social Media,Yes,1.17,7.96,D,No
+925,12,Male,Urban,3.39,Mobile,Games,Yes,1.28,6.01,C,No
+926,16,Male,Urban,6.44,Mobile,Social Media,No,1.69,7.33,D,No
+927,11,Male,Rural,2.8,TV,Social Media,Yes,0.81,7.82,C,No
+928,14,Male,Metro,5.23,PC,Education,Yes,0.77,6.9,D,No
+929,7,Female,Metro,4.95,Mobile,Education,No,1.69,5.44,C,No
+930,5,Female,Urban,6.93,Tablet,Social Media,Yes,1.28,7.9,D,No
+931,9,Male,Metro,3.52,TV,Games,Yes,1.05,7.22,A,No
+932,17,Female,Urban,3.1,TV,Entertainment,Yes,1.8,9.77,B,No
+933,8,Male,Rural,4.33,Mobile,Games,No,1.09,8.1,A,No
+934,14,Female,Urban,7.0,TV,Entertainment,No,1.36,8.47,B,No
+935,12,Female,Urban,3.17,Mobile,Games,No,1.05,7.88,B,No
+936,5,Male,Rural,1.0,PC,Education,Yes,1.65,8.09,C,No
+937,14,Female,Metro,4.59,PC,Social Media,Yes,2.17,6.35,B,No
+938,5,Male,Urban,5.92,TV,Social Media,Yes,0.57,6.96,A,No
+939,16,Female,Urban,2.98,TV,Education,Yes,1.56,9.09,A,No
+940,8,Male,Rural,5.77,Tablet,Entertainment,No,1.93,8.21,D,No
+941,12,Male,Metro,2.95,TV,Entertainment,Yes,1.29,7.6,A,No
+942,9,Female,Urban,4.28,Tablet,Entertainment,Yes,0.93,8.49,D,No
+943,6,Female,Rural,5.63,PC,Education,Yes,1.71,8.51,B,No
+944,10,Male,Urban,2.72,PC,Entertainment,No,2.0,9.99,A,No
+945,9,Female,Rural,4.77,Mobile,Education,Yes,1.95,8.16,B,No
+946,6,Female,Metro,6.32,PC,Games,Yes,1.68,6.94,A,Yes
+947,17,Male,Metro,5.21,Tablet,Games,Yes,1.55,7.88,A,No
+948,15,Male,Metro,3.42,TV,Education,Yes,1.05,8.61,D,No
+949,15,Female,Metro,6.78,Mobile,Social Media,Yes,1.93,9.0,B,No
+950,15,Male,Urban,5.49,Tablet,Games,No,1.9,6.38,A,No
+951,7,Male,Urban,1.71,TV,Entertainment,Yes,0.93,8.25,C,No
+952,13,Male,Metro,5.8,Mobile,Education,Yes,1.68,7.1,B,No
+953,11,Female,Metro,3.64,PC,Entertainment,Yes,1.83,7.43,B,No
+954,11,Female,Metro,4.79,Tablet,Entertainment,Yes,1.94,8.85,B,No
+955,15,Male,Urban,6.01,TV,Social Media,Yes,1.46,8.75,D,No
+956,10,Female,Metro,3.68,Mobile,Entertainment,Yes,1.07,7.32,C,No
+957,12,Male,Metro,2.03,Mobile,Social Media,Yes,1.25,7.84,B,No
+958,8,Female,Metro,6.76,PC,Games,Yes,1.0,7.46,A,No
+959,12,Male,Rural,6.25,TV,Education,Yes,1.47,10.0,A,No
+960,8,Male,Metro,4.37,PC,Entertainment,Yes,1.38,8.28,D,No
+961,12,Female,Rural,5.78,PC,Education,No,2.57,7.16,A,No
+962,13,Male,Rural,3.95,TV,Entertainment,No,1.95,9.32,B,No
+963,7,Female,Metro,4.65,TV,Education,No,1.98,9.36,A,No
+964,7,Female,Rural,4.28,TV,Entertainment,No,1.74,9.79,B,No
+965,15,Male,Metro,4.01,Tablet,Entertainment,Yes,1.32,10.0,A,No
+966,17,Male,Urban,5.04,TV,Entertainment,No,1.36,8.71,C,No
+967,6,Female,Urban,2.69,Mobile,Entertainment,No,1.41,7.65,D,No
+968,17,Male,Urban,4.12,PC,Entertainment,Yes,1.59,7.8,D,No
+969,14,Male,Urban,4.97,Tablet,Entertainment,No,1.69,7.71,C,No
+970,7,Male,Rural,7.26,TV,Entertainment,No,1.5,7.6,C,No
+971,7,Male,Metro,2.75,Tablet,Entertainment,Yes,1.35,9.24,D,No
+972,9,Male,Metro,5.28,TV,Entertainment,Yes,1.2,8.0,C,No
+973,9,Female,Metro,5.45,Tablet,Education,Yes,0.8,8.97,B,No
+974,6,Female,Urban,1.68,PC,Social Media,No,2.14,8.68,A,No
+975,16,Male,Urban,5.12,PC,Entertainment,No,2.6,6.9,D,No
+976,14,Male,Metro,5.82,Mobile,Social Media,Yes,2.1,6.28,C,No
+977,17,Male,Urban,5.38,Mobile,Entertainment,Yes,0.87,6.76,B,No
+978,10,Female,Metro,4.37,TV,Entertainment,No,1.89,7.57,D,No
+979,9,Male,Metro,5.0,PC,Education,Yes,2.01,8.13,C,No
+980,10,Female,Metro,4.75,Tablet,Games,No,1.3,7.35,D,No
+981,5,Female,Metro,1.97,Tablet,Games,Yes,1.74,8.7,C,No
+982,9,Female,Metro,4.79,Tablet,Education,Yes,1.27,7.47,D,No
+983,13,Male,Metro,3.95,Mobile,Social Media,No,2.26,8.26,B,No
+984,16,Female,Metro,3.44,Tablet,Games,Yes,1.68,8.12,B,No
+985,14,Male,Urban,8.23,Mobile,Education,Yes,1.04,9.73,A,No
+986,6,Female,Metro,6.38,Mobile,Education,Yes,1.83,7.02,D,No
+987,5,Male,Metro,2.77,TV,Games,No,2.03,10.0,A,No
+988,14,Female,Urban,5.02,Tablet,Social Media,Yes,1.6,7.41,D,No
+989,17,Male,Urban,6.69,Tablet,Education,Yes,1.74,6.66,C,Yes
+990,15,Female,Urban,2.26,PC,Entertainment,Yes,1.47,7.78,C,No
+991,13,Male,Metro,4.62,TV,Social Media,Yes,0.93,10.0,A,No
+992,14,Male,Rural,4.69,PC,Social Media,Yes,1.42,8.9,D,No
+993,13,Male,Rural,2.59,TV,Games,Yes,1.76,8.6,A,No
+994,13,Male,Urban,5.07,Tablet,Games,No,1.44,8.8,B,No
+995,10,Female,Rural,6.17,Mobile,Entertainment,No,1.9,7.23,A,No
+996,12,Female,Urban,6.76,Mobile,Education,Yes,1.3,8.33,A,No
+997,15,Male,Metro,4.13,Mobile,Games,No,1.34,8.0,C,No
+998,17,Female,Rural,8.25,Mobile,Games,No,1.92,9.81,A,No
+999,5,Male,Metro,1.41,Mobile,Social Media,Yes,1.61,7.89,D,No
+1000,14,Male,Rural,5.03,PC,Games,No,1.29,7.62,C,No
